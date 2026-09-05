@@ -1,6 +1,5 @@
 print("Hello, SUMIT")
-def add(a, b):
-    return a + b
 
-result = add(5, 10)
-print("The sum is:", result)
+print("Before swapping: a =", a, "b =", b)
+a,b = b,a
+print("After swapping: a =", a, "b =", b)
