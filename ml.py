@@ -9,3 +9,6 @@ def add_numbers(x, y):
 result = add_numbers(5, 3)
 print("The sum is:", result)
 """ changes on 20/06/2024"""
+
+print(4**5)
+print("New changes")
